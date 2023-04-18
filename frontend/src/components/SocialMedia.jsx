@@ -1,5 +1,5 @@
 import React from 'react'
-import { BsGithub, BsInstagram, BsTwitter } from 'react-icons/bs'
+import { BsGithub, BsInstagram, BsLinkedin } from 'react-icons/bs'
 
 const SocialMedia = () => {
   return (
@@ -17,7 +17,7 @@ const SocialMedia = () => {
         </div>
         <div>
           <a href='https://twitter.com/C0deKaito'>
-            <BsTwitter />
+            <BsLinkedin />
           </a>
         </div>
     </div>

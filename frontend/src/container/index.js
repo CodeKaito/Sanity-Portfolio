@@ -1,4 +1,5 @@
 export { default as About } from './About/About.jsx'
+export { default as Bio } from './Bio/Bio.jsx'
 export { default as Testimonials } from './Testimonials/Testimonials.jsx'
 export { default as Footer } from './Footer/Footer.jsx'
 export { default as Header } from './Header/Header.jsx'
