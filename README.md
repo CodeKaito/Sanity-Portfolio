@@ -1,6 +1,7 @@
 # Building a Modern UI/UX Website with Sanity.io
 
-![image](https://user-images.githubusercontent.com/57111980/227929384-3bab0bcb-124e-400d-8b9c-000cb65e38d0.png)
+![image](https://user-images.githubusercontent.com/57111980/232707016-5d7a0c03-a0b6-4ce0-bde9-3840ac5f29b9.png)
+
 
 Welcome to the guide on building a modern UI/UX website using [Sanity.io](https://www.sanity.io/) for Content Management System (CMS) and deploying a full-stack responsive portfolio website.
 
@@ -124,4 +125,4 @@ Sanity.io is a powerful cloud-based headless CMS that enables creation, manageme
 
 # Conclusion
 
-Congratulations! You have successfully built a modern UI/UX website using Sanity.io as your CMS and deployed a full-stack responsive portfolio website. With the ability to easily add, edit and manage content through Sanity.io, your website will stay up-to-date and informative for your audience.
+Congratulations! You have successfully built a modern UI/UX website using Sanity.io as your CMS and deployed a full-stack responsive portfolio website. With the ability to easily add, edit and manage content through Sanity.io, your website will stay up-to-date and informative for your audience..
