@@ -3,15 +3,29 @@
     align-items: left;
     width: 100%;
     padding: 100px 100px;
+
+    @media screen and (max-width: 900px) {
+        flex-direction: column;
+    }
 }
 
 .profile__pic {
     width: 30rem;
     border-radius: 10%;
+
+    @media screen and (max-width: 900px) {
+        width: 10rem;
+        margin-left: auto;
+    }
 }
 
 .biography__description {
     margin-left: 10rem;
+
+    @media screen and (max-width: 900px) {
+        margin-top: 1rem;
+        margin-left: 0;
+    }
 
     p {
         margin-top: 10px;
@@ -21,3 +35,4 @@
             }
     }
 }
+
