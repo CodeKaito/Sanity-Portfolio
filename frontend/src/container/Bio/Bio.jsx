@@ -6,13 +6,27 @@ import './Bio.scss'
 const Bio = () => {
     return (
         <>
-            <h2 className='head-text'>My Biography</h2>
+            <div className='app__profiles'>
+                <h2 className='head-text'>Get To <span>Know</span> Me</h2>
 
-            <motion>
-                <img src="" alt="" />
-            </motion>
+                <div className="biography__wrapper">
+                    <motion.div
+                        whileInView={{ opacity: 1 }}
+                        whileHover={{ scale: 1.1 }}
+                        transition={{ duration: 0.5, type: 'tween' }}
+                        className='biography__image' >
+                            <img src="https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="profile pic" className="profile__pic" />
+                    </motion.div>
+                        <div className="biography__description"> 
+                            <h2>Fullstack Developer</h2>
+                            <h5></h5>
+                            <p> Hello </p>    
+                        </div>
+                    </div>
+                    
+                </div>
         </>
-      )
+        );
     }
     
     export default AppWrap(
