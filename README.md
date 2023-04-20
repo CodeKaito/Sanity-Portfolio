@@ -123,6 +123,6 @@ Sanity.io is a powerful cloud-based headless CMS that enables creation, manageme
    sanity deploy
    ```
 
-# Conclusion
+# Conclusion.
 
 Congratulations! You have successfully built a modern UI/UX website using Sanity.io as your CMS and deployed a full-stack responsive portfolio website. With the ability to easily add, edit and manage content through Sanity.io, your website will stay up-to-date and informative for your audience..
