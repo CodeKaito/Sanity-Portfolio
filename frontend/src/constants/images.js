@@ -19,6 +19,7 @@ import sass from '../assets/sass.png';
 import typescript from '../assets/typescript.png';
 import vue from '../assets/vue.png';
 import tailwindcss from '../assets/tailwindcss.png';
+import image2 from '../assets/image2.png';
 
 import about01 from '../assets/about01.png';
 import about02 from '../assets/about02.png';
@@ -40,6 +41,7 @@ import spotify from '../assets/spotify.png';
 import image from '../assets/image.png';
 
 export default {
+  image2,
   image,
   tailwindcss,
   react2,
